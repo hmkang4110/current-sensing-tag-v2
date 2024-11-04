@@ -9,7 +9,7 @@
 
 #include <zephyr/device.h>
 #include <zephyr/devicetree.h>
-#include <zephyr/drivers/adc.h>
+// #include <zephyr/drivers/adc.h>
 
 /* 1000 msec = 1 sec */
 #define SLEEP_TIME_MS   5000
